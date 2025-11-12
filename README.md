@@ -39,20 +39,6 @@ Open index.html in your browser or use a local server:
 bash# Using Python
 python -m http.server 8000
 
-# Using Node.js
-npx http-server
-📁 Project Structure
-ecommerce-landing-page/
-│
-├── index.html          # Main HTML file
-├── css/
-│   └── style.css       # Custom styles
-├── js/
-│   └── script.js       # JavaScript functionality
-├── images/             # Image assets (add your images here)
-├── assets/             # Other assets
-├── README.md           # Project documentation
-└── .gitignore         # Git ignore file
 ✨ Features Breakdown
 Navigation
 
