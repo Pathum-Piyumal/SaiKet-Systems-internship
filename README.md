@@ -28,7 +28,7 @@ Git & GitHub
 
 Clone the repository:
 
-bashgit clone https://github.com/YOUR-USERNAME/ecommerce-landing-page.git
+bashgit clone https://github.com/Pathum-Piyumal/ecommerce-landing-page.git
 
 Navigate to the project directory:
 
